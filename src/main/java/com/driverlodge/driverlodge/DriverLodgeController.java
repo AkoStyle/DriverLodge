@@ -3,7 +3,7 @@ package com.driverlodge.driverlodge;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-public class HelloController {
+public class DriverLodgeController {
     @FXML
     private Label welcomeText;
 
